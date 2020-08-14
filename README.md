@@ -1,4 +1,4 @@
-# Teams
+# Teams [Skript]
 
 > ## Description:
 
